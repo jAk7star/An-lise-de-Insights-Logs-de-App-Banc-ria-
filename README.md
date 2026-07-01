@@ -1,0 +1,1 @@
+# An-lise-de-Insights-Logs-de-App-Banc-ria-

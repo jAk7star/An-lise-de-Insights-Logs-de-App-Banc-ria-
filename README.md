@@ -14,7 +14,7 @@ A partir da análise dos registos (cerca de 1.200 eventos), foram identificados 
 * **Análise Arquitetural:** Avaliação de compromissos (trade-offs) arquiteturais, considerando propriedades ACID e o Teorema CAP nos fluxos de processamento.
 
 ## 📂 Estrutura do Repositório
-* `notebooks/`: Jupyter Notebooks detalhando a análise exploratória e a construção lógica dos prompts passo a passo.
+
 * `docs/`: Ficheiros explicativos, relatórios gerados e o Resumo Executivo Técnico.
 * `data/`: Amostras dos dados de log estruturados utilizados para a análise (dados 100% fictícios).
 

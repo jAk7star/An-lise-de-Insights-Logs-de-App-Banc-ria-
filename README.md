@@ -33,4 +33,4 @@ Tanto nos notebooks como nos ficheiros de documentação, encontra-se detalhada 
 ## ⚙️ Como Reproduzir
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-utilizador/nome-do-repositorio.git](https://github.com/seu-utilizador/nome-do-repositorio.git)
+   git clone (https://github.com/jAk7star/An-lise-de-Insights-Logs-de-App-Banc-ria-.git)
